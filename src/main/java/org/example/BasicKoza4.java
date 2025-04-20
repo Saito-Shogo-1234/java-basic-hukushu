@@ -1,6 +1,6 @@
 package org.example;
 
-public class BasicKoza3 {
+public class BasicKoza4 {
 
   public static void main(String[] args){
     double number1 = 50;
